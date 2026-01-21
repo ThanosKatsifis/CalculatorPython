@@ -5,6 +5,7 @@
 **Because doing math in your head is so 2025.**
 
 Created with ❤️ by **Thanos Katsifis**, this isn't just a calculator; it’s a sleek, Python-powered math machine designed to handle your daily sums with style.
+<img width="302" height="432" alt="Στιγμιότυπο οθόνης 2026-01-14 190852" src="https://github.com/user-attachments/assets/7dcc5a52-0a19-49ec-a8be-8f58d3eedccc" />
 
 ## 🌟 Why Use This?
 
@@ -45,9 +46,12 @@ python calculator.py
 ## 🎮 How to Play
 
 1. **Tap** the numbers.
-2. **Hit** the operators.
-3. **Smash** the `=` button for the truth.
-4. **Panic?** Hit **Clear** to start over.
+2. <img width="302" height="432" alt="Στιγμιότυπο οθόνης 2026-01-14 190627" src="https://github.com/user-attachments/assets/85aa750e-f41c-4cfc-8de3-185d7beef5c5" />
+
+3. **Hit** the operators.
+4. **Smash** the `=` button for the truth.
+5. 
+6. **Panic?** Hit **Clear** to start over.
 
 ---
 
