@@ -61,5 +61,5 @@ python calculator.py
 
 ### 📣 A Note from Thanos
 
-"I built this to make life a little easier. Use it for your homework, your taxes, or just to see what  is (it's 33, I checked)."
+"I built this to make life a little easier. Use it for your homework, your taxes, or just to see what  is 6x3 (it's 33, I checked)."
 
